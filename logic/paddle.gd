@@ -27,4 +27,4 @@ func _process(delta):
 func _on_area_entered(area):
 	if area.name == "Ball":
 		# Assign new direction.
-		area.direction = Vector2(_ball_dir, randf() * 2 - 1).normalized()
+		area.direction = Vector2(_ball_dir, randf() * -5 + 1).normalized()

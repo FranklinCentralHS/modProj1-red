@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1723655129
+::res://::1723823908
 ball.png::CompressedTexture2D::5575170535578718130::1723655125::1723655129::1::::<><>::
 icon.webp::CompressedTexture2D::3626017087650301524::1723655125::1723655129::1::::<><>::
 paddle.png::CompressedTexture2D::8668442055447141068::1723655125::1723655129::1::::<><>::
@@ -9,5 +9,5 @@ separator.png::CompressedTexture2D::8365776070012227721::1723655125::1723655129:
 ::res://logic/::1723655125
 ball.gd::GDScript::-1::1723655125::0::1::::<>Area2D<>::
 ceiling_floor.gd::GDScript::-1::1723655125::0::1::::<>Area2D<>::
-paddle.gd::GDScript::-1::1723655125::0::1::::<>Area2D<>::
+paddle.gd::GDScript::-1::1723823468::0::1::::<>Area2D<>::
 wall.gd::GDScript::-1::1723655125::0::1::::<>Area2D<>::

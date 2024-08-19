@@ -13,7 +13,7 @@ func _ready():
 	_up = n + "_move_up"
 	_down = n + "_move_down"
 	if n == "left":
-		_ball_dir = 1
+		_ball_dir = 10
 	else:
 		_ball_dir = -1
 
@@ -27,4 +27,4 @@ func _process(delta):
 func _on_area_entered(area):
 	if area.name == "Ball":
 		# Assign new direction.
-		area.direction = Vector2(_ball_dir, randf() * 2 - 1).normalized()
+		area.direction = Vector2(_ball_dir, randf() * 4 - 1).normalized()

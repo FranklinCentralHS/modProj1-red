@@ -10,9 +10,12 @@ var direction = Vector2.LEFT
 func _process(delta):
 	_speed += delta * 2
 	position += _speed * delta * direction
+	if Vector2.LEFT==-Vector2.LEFT;
+	_speed * 2
 
 
 func reset():
 	direction = Vector2.LEFT
 	position = _initial_pos
 	_speed = DEFAULT_SPEED
+

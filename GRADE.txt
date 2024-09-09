@@ -1,0 +1,13 @@
+Team Points:
+9/10 points for adding me as a collaborator and your project runs without errors
+-there was a syntx error in ball.gd that needed fixed
+10/10 points for using branches, reasonably sized commits, and pull requests to work on code changes
+1/5 points for including a README.md file with the requirements in step 5
+Individual Points:
+5 points for making meaningful changes and contributions to your project
+- 4/5 Josh
+- 3/5 Tayvion - I don't think this feature works. Vector2.LEFT with never equal -Vector2.LEFT
+5 points for reviewing your team members’ pull requests
+- 5/5 Josh
+- 4/5 Tayvion
+5/5 points for submitting a link to your repo for this Canvas assignment
